@@ -1,0 +1,6 @@
+{
+  "name": "NeuralSound",
+  "description": "Futuristic neural audio workstation for dataset curation, preprocessing, model training, and AI melody generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
